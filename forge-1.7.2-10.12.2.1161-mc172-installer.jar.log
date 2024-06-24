@@ -1,0 +1,57 @@
+JVM info: Microsoft - 21.0.3 - 21.0.3+9-LTS
+java.net.preferIPv4Stack=true
+Found java version 21.0.3
+Installing server to current directory
+MESSAGE: Data kindly mirrored by CreeperHost at https://creeperhost.net/
+MESSAGE: Considering minecraft server jar
+MESSAGE: Downloading minecraft server version 1.7.2
+MESSAGE:   Downloading library from https://launcher.mojang.com/v1/objects/3716cac82982e7c2eb09f83028b555e9ea606002/server.jar
+MESSAGE:     Download completed: Checksum validated.
+MESSAGE: Considering library net.minecraftforge:forge:1.7.2-10.12.2.1161-mc172: Not Downloading {Wrong Side}
+MESSAGE: Considering library net.minecraft:launchwrapper:1.9
+MESSAGE: Downloading library net.minecraft:launchwrapper:1.9
+MESSAGE: Trying unpacked library net.minecraft:launchwrapper:1.9
+MESSAGE: Considering library org.ow2.asm:asm-all:4.1
+MESSAGE: Downloading library org.ow2.asm:asm-all:4.1
+MESSAGE: Trying unpacked library org.ow2.asm:asm-all:4.1
+MESSAGE: Considering library org.scala-lang:scala-library:2.10.2
+MESSAGE: Downloading library org.scala-lang:scala-library:2.10.2
+MESSAGE: Trying unpacked library org.scala-lang:scala-library:2.10.2
+MESSAGE: Considering library org.scala-lang:scala-compiler:2.10.2
+MESSAGE: Downloading library org.scala-lang:scala-compiler:2.10.2
+MESSAGE: Trying unpacked library org.scala-lang:scala-compiler:2.10.2
+MESSAGE: Considering library java3d:vecmath:1.3.1: Not Downloading {Wrong Side}
+MESSAGE: Considering library net.sf.trove4j:trove4j:3.0.3: Not Downloading {Wrong Side}
+MESSAGE: Considering library com.ibm.icu:icu4j-core-mojang:51.2: Not Downloading {Wrong Side}
+MESSAGE: Considering library net.sf.jopt-simple:jopt-simple:4.5
+MESSAGE: Downloading library net.sf.jopt-simple:jopt-simple:4.5
+MESSAGE: Trying unpacked library net.sf.jopt-simple:jopt-simple:4.5
+MESSAGE: Considering library lzma:lzma:0.0.1
+MESSAGE: Downloading library lzma:lzma:0.0.1
+MESSAGE: Trying unpacked library lzma:lzma:0.0.1
+MESSAGE: Considering library com.paulscode:codecjorbis:20101023: Not Downloading {Wrong Side}
+MESSAGE: Considering library com.paulscode:codecwav:20101023: Not Downloading {Wrong Side}
+MESSAGE: Considering library com.paulscode:libraryjavasound:20101123: Not Downloading {Wrong Side}
+MESSAGE: Considering library com.paulscode:librarylwjglopenal:20100824: Not Downloading {Wrong Side}
+MESSAGE: Considering library com.paulscode:soundsystem:20120107: Not Downloading {Wrong Side}
+MESSAGE: Considering library io.netty:netty-all:4.0.10.Final: Not Downloading {Wrong Side}
+MESSAGE: Considering library com.google.guava:guava:15.0: Not Downloading {Wrong Side}
+MESSAGE: Considering library org.apache.commons:commons-lang3:3.1: Not Downloading {Wrong Side}
+MESSAGE: Considering library commons-io:commons-io:2.4: Not Downloading {Wrong Side}
+MESSAGE: Considering library net.java.jinput:jinput:2.0.5: Not Downloading {Wrong Side}
+MESSAGE: Considering library net.java.jutils:jutils:1.0.0: Not Downloading {Wrong Side}
+MESSAGE: Considering library com.google.code.gson:gson:2.2.4: Not Downloading {Wrong Side}
+MESSAGE: Considering library com.mojang:authlib:1.3: Not Downloading {Wrong Side}
+MESSAGE: Considering library org.apache.logging.log4j:log4j-api:2.0-beta9: Not Downloading {Wrong Side}
+MESSAGE: Considering library org.apache.logging.log4j:log4j-core:2.0-beta9: Not Downloading {Wrong Side}
+MESSAGE: Considering library org.lwjgl.lwjgl:lwjgl:2.9.0: Not Downloading {Wrong Side}
+MESSAGE: Considering library org.lwjgl.lwjgl:lwjgl_util:2.9.0: Not Downloading {Wrong Side}
+MESSAGE: Considering library org.lwjgl.lwjgl:lwjgl-platform:2.9.0: Not Downloading {Wrong Side}
+MESSAGE: Considering library org.lwjgl.lwjgl:lwjgl:2.9.1-nightly-20131017: Not Downloading {Wrong Side}
+MESSAGE: Considering library org.lwjgl.lwjgl:lwjgl_util:2.9.1-nightly-20131017: Not Downloading {Wrong Side}
+MESSAGE: Considering library org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20131017: Not Downloading {Wrong Side}
+MESSAGE: Considering library net.java.jinput:jinput-platform:2.0.5: Not Downloading {Wrong Side}
+Extracting: /forge-1.7.2-10.12.2.1161-mc172-universal.jar
+To:          /workspaces/minecraft/./forge-1.7.2-10.12.2.1161-mc172-universal.jar
+The server installed successfully, you should now be able to run the file forge-1.7.2-10.12.2.1161-mc172-universal.jar
+You can delete this installer file now if you wish
