@@ -691,6 +691,13 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-06-28 02:35:13 +0000",
+      "iron_chestplate": "2024-06-28 02:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -921,6 +928,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2024-06-28 03:27:47 +0000",
       "zombie": "2024-06-27 03:01:44 +0000",
       "spider": "2024-06-27 02:59:46 +0000",
       "creeper": "2024-06-27 04:06:55 +0000",
@@ -1291,6 +1299,12 @@
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-28 03:18:13 +0000"
     },
     "done": true
   },
@@ -1685,6 +1699,9 @@
       "beaches": "2024-06-27 04:19:52 +0000",
       "forest_hills": "2024-06-27 02:52:32 +0000",
       "plains": "2024-06-27 02:46:24 +0000",
+      "savanna": "2024-06-28 02:37:52 +0000",
+      "savanna_rock": "2024-06-28 02:46:28 +0000",
+      "birch_forest_hills": "2024-06-28 02:22:34 +0000",
       "roofed_forest": "2024-06-27 04:25:42 +0000",
       "river": "2024-06-27 02:52:42 +0000"
     },
@@ -1825,6 +1842,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2024-06-28 03:06:34 +0000"
     },
     "done": true
   },
@@ -1969,6 +1992,12 @@
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-06-28 03:01:25 +0000"
     },
     "done": true
   },
@@ -2425,7 +2454,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-06-27 02:59:49 +0000",
-      "cooked_mutton": "2024-06-27 04:09:26 +0000"
+      "cooked_mutton": "2024-06-27 04:09:26 +0000",
+      "apple": "2024-06-28 02:25:48 +0000",
+      "bread": "2024-06-28 02:53:57 +0000"
     },
     "done": false
   },
@@ -3510,6 +3541,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-06-28 02:32:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -3573,6 +3610,12 @@
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-06-28 02:19:25 +0000"
     },
     "done": true
   },

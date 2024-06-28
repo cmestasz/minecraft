@@ -560,9 +560,10 @@
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2024-06-27 04:17:54 +0000",
-      "inv_changed-enderio:clay": "2024-06-27 03:26:21 +0000"
+      "inv_changed-enderio:clay": "2024-06-27 03:26:21 +0000",
+      "inv_changed-enderio:sand": "2024-06-28 02:47:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
@@ -681,6 +682,12 @@
   "botania:challenge/root": {
     "criteria": {
       "flower": "2024-06-27 03:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-06-28 03:24:43 +0000"
     },
     "done": true
   },
@@ -917,6 +924,7 @@
       "skeleton": "2024-06-27 03:37:59 +0000",
       "zombie": "2024-06-27 03:27:58 +0000",
       "witch": "2024-06-27 04:10:38 +0000",
+      "spider": "2024-06-28 03:28:16 +0000",
       "creeper": "2024-06-27 03:37:37 +0000"
     },
     "done": false
@@ -1687,8 +1695,17 @@
     "criteria": {
       "forest": "2024-06-27 02:50:25 +0000",
       "birch_forest": "2024-06-27 03:17:39 +0000",
+      "deep_ocean": "2024-06-28 03:21:46 +0000",
+      "beaches": "2024-06-28 03:21:29 +0000",
+      "forest_hills": "2024-06-28 03:20:34 +0000",
       "plains": "2024-06-27 02:47:13 +0000",
-      "river": "2024-06-27 05:06:51 +0000"
+      "savanna": "2024-06-28 03:22:42 +0000",
+      "taiga": "2024-06-28 03:23:01 +0000",
+      "taiga_hills": "2024-06-28 03:23:42 +0000",
+      "ocean": "2024-06-28 03:21:33 +0000",
+      "roofed_forest": "2024-06-28 02:53:42 +0000",
+      "river": "2024-06-27 05:06:51 +0000",
+      "desert": "2024-06-28 03:22:17 +0000"
     },
     "done": false
   },
@@ -1797,6 +1814,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-06-28 02:44:45 +0000"
     },
     "done": true
   },
@@ -2429,6 +2452,7 @@
       "cooked_porkchop": "2024-06-27 03:09:32 +0000",
       "cooked_mutton": "2024-06-27 04:00:35 +0000",
       "apple": "2024-06-27 04:52:48 +0000",
+      "bread": "2024-06-28 03:24:46 +0000",
       "rotten_flesh": "2024-06-27 04:52:10 +0000"
     },
     "done": false
@@ -2436,6 +2460,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-06-28 03:15:52 +0000"
     },
     "done": true
   },
@@ -2991,6 +3021,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-06-28 03:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
@@ -3543,6 +3579,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-06-28 03:15:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
@@ -3852,6 +3894,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2024-06-28 02:56:05 +0000"
     },
     "done": true
   },
