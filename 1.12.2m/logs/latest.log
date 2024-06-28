@@ -1476,3 +1476,194 @@ java.lang.NoSuchMethodException: crazypants.enderio.powertools.EnderIOPowerTools
 [03:39:26] [Thread-11/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
 [03:39:26] [Thread-12/INFO] [THAUMCRAFT]: Stopping aura thread for dim -11325
 [03:39:26] [Thread-14/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[03:58:16] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[03:58:16] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 55 mods : mowziesmobs@1.5.8,enderiointegrationforestry@5.3.72,mixinbooter@8.8,jei@4.16.1.301,endercore@1.12.2-0.5.78,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p2,travelersbackpack@1.0.35,enderiointegrationticlate@5.3.72,chameleon@1.12-4.1.3,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,waila@1.8.26,enderioconduitsrefinedstorage@5.3.72,guideapi@1.12-2.1.8-63,carryon@1.12.3,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,enderioconduits@5.3.72,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,mousetweaks@2.10,enderiomachines@5.3.72,immersiveengineering@0.12-98,biomesoplenty@7.0.1.2445,baubles@1.5.2,jade@0.1.0,botania@r1.10-364,enderiopowertools@5.3.72,enderio@5.3.72,extrautils2@1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,autoreglib@1.3-32,storagedrawers@5.5.0,enderioinvpanel@5.3.72,FML@8.0.99.99,tombstone@4.6.7,enderiobase@5.3.72,enderiointegrationtic@5.3.72,enderioconduitsappliedenergistics@5.3.72,appleskin@1.0.14,cfm@6.3.0,lootr@0.6.2,enderioconduitsopencomputers@5.3.72,fastleafdecay@v14
+[03:58:16] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[03:58:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:58:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: cricre[/25.7.165.148:19244] logged in with entity id 893 at (-254.5, 64.0, 137.5)
+[03:58:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricre joined the game
+[03:58:22] [Server thread/INFO] [Waila]: Player EntityPlayerMP['cricre'/893, l='world', x=-254.50, y=64.00, z=137.50] connected. Sending ping
+[03:58:22] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[03:58:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricre has made the advancement [Ice and Fire]
+[03:58:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: cricre lost connection: Disconnected
+[03:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricre left the game
+[04:01:28] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[04:01:28] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 55 mods : mowziesmobs@1.5.8,enderiointegrationforestry@5.3.72,mixinbooter@8.8,jei@4.16.1.301,endercore@1.12.2-0.5.78,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p2,travelersbackpack@1.0.35,enderiointegrationticlate@5.3.72,chameleon@1.12-4.1.3,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,waila@1.8.26,enderioconduitsrefinedstorage@5.3.72,guideapi@1.12-2.1.8-63,carryon@1.12.3,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,enderioconduits@5.3.72,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,mousetweaks@2.10,enderiomachines@5.3.72,immersiveengineering@0.12-98,biomesoplenty@7.0.1.2445,baubles@1.5.2,jade@0.1.0,botania@r1.10-364,enderiopowertools@5.3.72,enderio@5.3.72,extrautils2@1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,autoreglib@1.3-32,storagedrawers@5.5.0,enderioinvpanel@5.3.72,FML@8.0.99.99,tombstone@4.6.7,enderiobase@5.3.72,enderiointegrationtic@5.3.72,enderioconduitsappliedenergistics@5.3.72,appleskin@1.0.14,cfm@6.3.0,lootr@0.6.2,enderioconduitsopencomputers@5.3.72,fastleafdecay@v14
+[04:01:28] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[04:01:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:01:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: cricro[/25.7.165.148:19309] logged in with entity id 976 at (-260.51435708874965, 71.0, -85.33662045454116)
+[04:01:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro joined the game
+[04:01:34] [Server thread/INFO] [Waila]: Player EntityPlayerMP['cricro'/976, l='world', x=-260.51, y=71.00, z=-85.34] connected. Sending ping
+[04:01:34] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[04:08:14] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[04:08:14] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 57 mods : mowziesmobs@1.5.8,enderiointegrationforestry@5.3.72,mixinbooter@8.8,jei@4.16.1.301,endercore@1.12.2-0.5.78,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p2,travelersbackpack@1.0.35,enderiointegrationticlate@5.3.72,chameleon@1.12-4.1.3,llibrary@1.7.20,morpheus@1.12.2-3.5.106,iceandfire@1.9.1,waila@1.8.26,enderioconduitsrefinedstorage@5.3.72,guideapi@1.12-2.1.8-63,carryon@1.12.3,jeresources@0.9.2.60,labymod@3.9.62,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,enderioconduits@5.3.72,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,mousetweaks@2.10,enderiomachines@5.3.72,immersiveengineering@0.12-98,biomesoplenty@7.0.1.2445,baubles@1.5.2,jade@0.1.0,botania@r1.10-364,enderiopowertools@5.3.72,enderio@5.3.72,extrautils2@1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,autoreglib@1.3-32,storagedrawers@5.5.0,enderioinvpanel@5.3.72,FML@8.0.99.99,tombstone@4.6.7,enderiobase@5.3.72,enderiointegrationtic@5.3.72,enderioconduitsappliedenergistics@5.3.72,appleskin@1.0.14,cfm@6.3.0,lootr@0.6.2,enderioconduitsopencomputers@5.3.72,controllable@0.11.2,fastleafdecay@v14
+[04:08:14] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[04:08:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:08:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ynoacamino[/25.7.154.77:64903] logged in with entity id 24093 at (-335.24326880685004, 14.166109260938216, 169.5315844221162)
+[04:08:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ynoacamino joined the game
+[04:08:21] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ynoacamino'/24093, l='world', x=-335.24, y=14.17, z=169.53] connected. Sending ping
+[04:08:21] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[04:13:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro has made the advancement [Ice Bucket Challenge]
+[04:14:38] [Server thread/INFO] [morpheus]: ynoacamino is now sleeping. 1/2 (50%)
+[04:14:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ynoacamino moved wrongly!
+[04:15:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2944ms behind, skipping 58 tick(s)
+[04:17:23] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[04:17:23] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5da02a06)
+[04:17:23] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[04:17:25] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [-8, -5] in dimension -1 (the_nether) while populating chunk [-8, -6], causing cascading worldgen lag.
+[04:17:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro has made the advancement [We Need to Go Deeper]
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:hopper to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:dropper to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:white_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:orange_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:magenta_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:light_blue_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:yellow_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:lime_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:pink_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:gray_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:silver_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:cyan_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:blue_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:brown_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:green_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:red_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added minecraft:black_shulker_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added quark:custom_chest to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added quark:custom_chest_trap to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added thaumcraft:hungry_chest to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added tconstruct:wooden_hopper to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:freezer to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:fridge to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_oak to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_spruce to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_birch to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_jungle to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_acacia to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_dark_oak to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_stone to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_granite to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_diorite to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_andesite to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_oak to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_spruce to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_birch to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_jungle to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_acacia to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_dark_oak to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_stone to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_granite to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_diorite to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bedside_cabinet_andesite to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:oven to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:mail_box to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:mail_box_spruce to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:mail_box_birch to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:mail_box_jungle to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:mail_box_acacia to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:mail_box_dark_oak to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:computer to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:printer to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:wall_cabinet to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:bin to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:present to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:microwave to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:washing_machine to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:counter_drawer to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:dishwasher to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:cabinet_kitchen to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:crate to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:crate_spruce to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:crate_birch to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:crate_jungle to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:crate_acacia to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:crate_dark_oak to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:esky to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_oak to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_spruce to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_birch to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_jungle to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_acacia to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_dark_oak to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_stone to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_granite to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_diorite to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:desk_cabinet_andesite to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added cfm:tv_stand to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added iceandfire:desert_myrmex_cocoon to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added iceandfire:jungle_myrmex_cocoon to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_chest to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_white to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_orange to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_magenta to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_light_blue to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_yellow to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_lime to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_pink to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_gray to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_silver to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_cyan to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_purple to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_blue to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_brown to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_green to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_red to the Lootr block replacement list.
+[04:17:28] [Server thread/INFO] [Lootr]: Added ironchest:iron_shulker_box_black to the Lootr block replacement list.
+[04:17:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5163ms behind, skipping 103 tick(s)
+[04:17:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: cricro moved too quickly! 236.22967994491563,2.0,79.72068585522402
+[04:17:28] [Thread-19/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[04:20:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro has made the advancement [A Terrible Fortress]
+[04:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro has made the advancement [Ferrously Mechanical]
+[04:30:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro has made the advancement [Into Fire]
+[04:30:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ynoacamino lost connection: Disconnected
+[04:30:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ynoacamino left the game
+[04:35:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro was slain by Wither Skeleton
+[04:35:02] [Server thread/INFO] [enderio]: Galacticraft inventory inaccessable. Most likely because it is not installed.
+[04:35:02] [Server thread/INFO] [tombstone]: The last known grave of cricro is at location [name:Last Grave, x:-262, y:61, z:33] in the dimension -1
+[04:35:02] [Server thread/INFO] [tombstone]: cricro has successfully been saved
+[04:35:05] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[04:35:06] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:35:07] [Thread-19/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[04:35:17] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[04:35:17] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5da02a06)
+[04:35:17] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[04:35:18] [Thread-20/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[04:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro has reached the goal [Here They Come]
+[04:37:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro has made the advancement [Magic Writing]
+[04:37:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro has reached the goal [Great minds think alike]
+[04:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: cricro moved too quickly! -236.97263410512363,-2.0,-81.32599980301481
+[04:39:48] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[04:39:48] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:39:50] [Thread-20/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[04:46:41] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[04:46:41] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5da02a06)
+[04:46:41] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[04:46:42] [Thread-21/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[04:46:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: cricro moved too quickly! 236.91173323335312,2.0,80.2119405063483
+[04:49:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: cricro moved too quickly! -237.60257225703722,-2.0,-80.00813341724069
+[04:49:54] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[04:49:55] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:49:56] [Thread-21/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[04:50:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro has made the advancement [Local Brewery]
+[04:53:39] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[04:53:39] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5da02a06)
+[04:53:39] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[04:53:40] [Thread-22/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[04:53:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: cricro moved too quickly! 236.58902184097497,2.0,79.75368804568248
+[05:02:24] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[05:02:24] [Server thread/INFO] [FML]: Unloading dimension -1
+[05:02:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: cricro moved too quickly! -236.80000001192093,-2.0,-79.3486159753952
+[05:02:25] [Thread-22/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[05:03:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: cricro lost connection: Disconnected
+[05:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cricro left the game
+[05:04:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[05:04:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:04:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:04:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[05:04:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[05:04:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[05:04:09] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[05:04:09] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[05:04:09] [Server thread/INFO] [FML]: Unloading dimension 0
+[05:04:09] [Server thread/INFO] [FML]: Unloading dimension -9999
