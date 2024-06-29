@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "craft_hammer": "2024-06-29 16:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
@@ -1151,6 +1157,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/multiblock_blastfurnace": {
+    "criteria": {
+      "form_blastfurnace": "2024-06-29 16:28:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/blue_dye_from_bluebells": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
@@ -1732,6 +1744,7 @@
       "savanna": "2024-06-28 03:22:42 +0000",
       "taiga": "2024-06-28 03:23:01 +0000",
       "taiga_hills": "2024-06-28 03:23:42 +0000",
+      "birch_forest_hills": "2024-06-29 17:39:23 +0000",
       "ocean": "2024-06-28 03:21:33 +0000",
       "roofed_forest": "2024-06-28 02:53:42 +0000",
       "river": "2024-06-27 05:06:51 +0000",
@@ -2042,6 +2055,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2024-06-29 18:09:12 +0000"
     },
     "done": true
   },
@@ -3000,6 +3019,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "craft_hammer": "2024-06-29 16:49:16 +0000"
     },
     "done": true
   },
