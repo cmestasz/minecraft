@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "enderio:gears/g3_iron_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 01:28:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2024-06-30 01:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -485,9 +497,21 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/1_sagmill_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_sag_mill": "2024-06-30 00:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:start/1_binder_composite": {
+    "criteria": {
+      "inv_changed-enderio:binder_composite": "2024-06-30 01:01:05 +0000"
     },
     "done": true
   },
@@ -710,6 +734,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "phantasmagoric_inferno": "2024-06-30 04:46:12 +0000",
+      "visceral_heap": "2024-06-30 04:46:55 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/beach_terrarium": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -785,6 +816,12 @@
   "biomesoplenty:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-06-30 01:04:23 +0000"
     },
     "done": true
   },
@@ -929,6 +966,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2024-06-28 03:27:47 +0000",
+      "skeleton": "2024-06-30 02:04:19 +0000",
       "zombie": "2024-06-27 03:01:44 +0000",
       "spider": "2024-06-27 02:59:46 +0000",
       "creeper": "2024-06-27 04:06:55 +0000",
@@ -993,6 +1031,12 @@
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/a_powder_coating": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 01:18:55 +0000"
     },
     "done": true
   },
@@ -1161,6 +1205,14 @@
   "biomesoplenty:recipes/decorations/fern_terrarium": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/goal/1_all_simple_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_sag_mill": "2024-06-30 00:57:29 +0000",
+      "inv_changed-enderio:block_simple_stirling_generator": "2024-06-30 00:57:27 +0000",
+      "inv_changed-enderio:block_simple_alloy_smelter": "2024-06-30 00:57:28 +0000"
     },
     "done": true
   },
@@ -1656,6 +1708,12 @@
     },
     "done": true
   },
+  "enderioconduits:start/2_conduit_binder": {
+    "criteria": {
+      "inv_changed-enderio:conduit_binder": "2024-06-30 01:03:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -1794,6 +1852,12 @@
   "biomesoplenty:recipes/buildingblocks/chiseled_white_sandstone": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/alloy/machine_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:block_machine_chassis": "2024-06-30 01:20:47 +0000"
     },
     "done": true
   },
@@ -2013,6 +2077,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2024-06-30 01:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -2229,6 +2299,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-06-30 04:46:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -2340,6 +2416,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/alloy/1_alloy_smelter_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_alloy_smelter": "2024-06-30 00:57:28 +0000"
     },
     "done": true
   },
@@ -2511,6 +2593,12 @@
   "biomesoplenty:recipes/buildingblocks/sacred_oak_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/9_white": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 01:18:21 +0000"
     },
     "done": true
   },
@@ -2790,6 +2878,13 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit2": "2024-06-30 01:08:23 +0000",
+      "inv_changed-enderio:item_conduit2": "2024-06-30 01:25:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -2823,6 +2918,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/7_black": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 01:17:19 +0000"
     },
     "done": true
   },
@@ -2910,6 +3011,12 @@
     },
     "done": true
   },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "code_triggered": "2024-06-30 02:53:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/filled_honeycomb_block": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -2976,9 +3083,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-06-30 04:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/alloy/2_energetic_alloy_get": {
+    "criteria": {
+      "inv_changed-enderio:item_energetic_alloy": "2024-06-30 01:52:33 +0000"
     },
     "done": true
   },
@@ -3054,6 +3173,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 01:05:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -3099,6 +3224,12 @@
   "biomesoplenty:recipes/buildingblocks/ebony_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "botania:main/tiny_potato_pet": {
+    "criteria": {
+      "code_triggered": "2024-06-30 01:38:41 +0000"
     },
     "done": true
   },
@@ -3240,6 +3371,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-06-30 04:46:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/jacaranda_stairs": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -3285,6 +3422,12 @@
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2024-06-30 02:52:14 +0000"
     },
     "done": true
   },
@@ -3339,6 +3482,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:root": {
+    "criteria": {
+      "inv_changed-enderio:block_machine_chassis_root": "2024-06-30 01:20:47 +0000"
     },
     "done": true
   },
@@ -3517,6 +3666,12 @@
     },
     "done": true
   },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2024-06-30 01:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-06-27 02:49:13 +0000"
@@ -3553,6 +3708,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/stirling/1_stirling_generator_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_stirling_generator": "2024-06-30 00:57:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -3568,6 +3729,12 @@
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderio:gears/g2_stone_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 01:36:37 +0000"
     },
     "done": true
   },
@@ -3613,6 +3780,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-06-30 04:13:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-06-28 02:19:25 +0000"
@@ -3655,6 +3828,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/8_blue": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 01:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -3688,6 +3867,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/5_green": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 01:15:39 +0000"
     },
     "done": true
   },
@@ -3991,6 +4176,12 @@
     },
     "done": true
   },
+  "enderio:start/2_simple_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 01:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -4012,6 +4203,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-06-27 03:12:27 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/2_sagmill_flowers": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 01:14:29 +0000"
     },
     "done": true
   },
