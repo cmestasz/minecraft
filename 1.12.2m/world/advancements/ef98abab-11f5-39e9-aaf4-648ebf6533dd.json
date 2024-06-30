@@ -667,6 +667,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-06-30 16:26:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -737,7 +743,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "phantasmagoric_inferno": "2024-06-30 04:46:12 +0000",
-      "visceral_heap": "2024-06-30 04:46:55 +0000"
+      "visceral_heap": "2024-06-30 04:46:55 +0000",
+      "corrupted_sands": "2024-06-30 15:59:13 +0000",
+      "undergarden": "2024-06-30 16:23:11 +0000"
     },
     "done": false
   },
@@ -846,6 +854,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2024-06-30 16:24:59 +0000"
     },
     "done": true
   },
@@ -965,10 +979,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-06-30 16:26:51 +0000",
       "zombie_villager": "2024-06-28 03:27:47 +0000",
+      "magma_cube": "2024-06-30 16:30:08 +0000",
       "skeleton": "2024-06-30 02:04:19 +0000",
+      "blaze": "2024-06-30 16:24:13 +0000",
       "zombie": "2024-06-27 03:01:44 +0000",
       "spider": "2024-06-27 02:59:46 +0000",
+      "ghast": "2024-06-30 16:27:31 +0000",
       "creeper": "2024-06-27 04:06:55 +0000",
       "enderman": "2024-06-27 03:00:37 +0000"
     },
@@ -1354,6 +1372,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2024-06-30 16:03:59 +0000"
+    },
+    "done": false
+  },
   "enderio:start/1_infinity_powder_get": {
     "criteria": {
       "inv_changed-enderio:item_material": "2024-06-28 03:18:13 +0000"
@@ -1387,6 +1411,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-06-30 14:51:06 +0000"
     },
     "done": true
   },
@@ -1754,14 +1784,18 @@
     "criteria": {
       "forest": "2024-06-27 02:50:06 +0000",
       "birch_forest": "2024-06-27 03:16:05 +0000",
+      "swampland": "2024-06-30 16:04:49 +0000",
       "beaches": "2024-06-27 04:19:52 +0000",
+      "desert_hills": "2024-06-30 16:02:48 +0000",
       "forest_hills": "2024-06-27 02:52:32 +0000",
       "plains": "2024-06-27 02:46:24 +0000",
       "savanna": "2024-06-28 02:37:52 +0000",
       "savanna_rock": "2024-06-28 02:46:28 +0000",
       "birch_forest_hills": "2024-06-28 02:22:34 +0000",
+      "extreme_hills": "2024-06-30 14:47:59 +0000",
       "roofed_forest": "2024-06-27 04:25:42 +0000",
-      "river": "2024-06-27 02:52:42 +0000"
+      "river": "2024-06-27 02:52:42 +0000",
+      "desert": "2024-06-30 15:04:27 +0000"
     },
     "done": false
   },
@@ -2537,6 +2571,7 @@
     "criteria": {
       "cooked_porkchop": "2024-06-27 02:59:49 +0000",
       "cooked_mutton": "2024-06-27 04:09:26 +0000",
+      "baked_potato": "2024-06-30 14:47:42 +0000",
       "apple": "2024-06-28 02:25:48 +0000",
       "bread": "2024-06-28 02:53:57 +0000"
     },
@@ -2960,6 +2995,12 @@
   "biomesoplenty:recipes/decorations/flower_terrarium": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "enderio:gears/g1_wooden_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-06-30 15:45:32 +0000"
     },
     "done": true
   },
@@ -3690,6 +3731,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-06-30 16:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -3807,6 +3854,12 @@
   "biomesoplenty:recipes/misc/coal_from_ash": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2024-06-30 15:43:43 +0000"
     },
     "done": true
   },
