@@ -233,12 +233,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-06-30 03:18:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_the_recipe": "2024-06-30 03:18:45 +0000"
@@ -559,9 +553,11 @@
   },
   "enderioconduits:root": {
     "criteria": {
+      "inv_changed-enderio:gravel": "2024-07-03 04:39:59 +0000",
+      "inv_changed-enderio:clay": "2024-07-03 04:29:21 +0000",
       "inv_changed-enderio:sand": "2024-06-30 03:59:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
@@ -700,6 +696,12 @@
       "has_the_recipe": "2024-06-30 03:18:45 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "phantasmagoric_inferno": "2024-07-03 05:18:58 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/decorations/beach_terrarium": {
     "criteria": {
@@ -929,6 +931,7 @@
       "skeleton": "2024-06-30 04:29:42 +0000",
       "zombie": "2024-06-30 05:34:59 +0000",
       "witch": "2024-06-30 05:57:31 +0000",
+      "spider": "2024-07-03 05:11:49 +0000",
       "creeper": "2024-06-30 05:41:49 +0000"
     },
     "done": false
@@ -1188,12 +1191,6 @@
   "biomesoplenty:recipes/redstone/eucalyptus_fence_gate": {
     "criteria": {
       "has_the_recipe": "2024-06-30 03:18:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_deathworm": {
-    "criteria": {
-      "killed_fire_dragon": "2024-06-30 04:22:52 +0000"
     },
     "done": true
   },
@@ -1699,12 +1696,15 @@
     "criteria": {
       "forest": "2024-06-30 03:34:57 +0000",
       "birch_forest": "2024-06-30 03:37:31 +0000",
+      "swampland": "2024-07-03 04:18:47 +0000",
       "beaches": "2024-06-30 05:10:27 +0000",
       "desert_hills": "2024-06-30 03:59:40 +0000",
+      "forest_hills": "2024-07-03 04:57:46 +0000",
       "plains": "2024-06-30 03:18:46 +0000",
       "savanna": "2024-06-30 04:11:15 +0000",
       "savanna_rock": "2024-06-30 04:12:23 +0000",
       "birch_forest_hills": "2024-06-30 04:10:29 +0000",
+      "ocean": "2024-07-03 05:11:03 +0000",
       "roofed_forest": "2024-06-30 03:51:58 +0000",
       "river": "2024-06-30 03:57:30 +0000",
       "desert": "2024-06-30 03:58:39 +0000"
@@ -1984,6 +1984,12 @@
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2024-06-30 03:18:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-07-03 05:06:14 +0000"
     },
     "done": true
   },
@@ -2752,6 +2758,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-07-03 05:06:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2024-06-30 03:18:45 +0000"
@@ -3079,6 +3091,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-06-30 03:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-07-03 04:22:41 +0000"
     },
     "done": true
   },
@@ -3907,6 +3925,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_the_recipe": "2024-06-30 03:18:45 +0000"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2024-07-03 04:46:25 +0000"
     },
     "done": true
   },

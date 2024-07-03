@@ -748,6 +748,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-07-03 05:17:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/brown_dye_from_cattail": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
@@ -974,6 +980,7 @@
       "zombie": "2024-06-27 03:27:58 +0000",
       "witch": "2024-06-27 04:10:38 +0000",
       "spider": "2024-06-28 03:28:16 +0000",
+      "ghast": "2024-07-03 05:17:55 +0000",
       "creeper": "2024-06-27 03:37:37 +0000",
       "enderman": "2024-06-30 05:40:20 +0000"
     },
@@ -4004,6 +4011,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_railgun": {
+    "criteria": {
+      "craft_hammer": "2024-07-03 05:08:12 +0000"
     },
     "done": true
   },

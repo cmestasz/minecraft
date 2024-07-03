@@ -239,12 +239,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-06-27 02:46:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_the_recipe": "2024-06-27 02:46:23 +0000"
@@ -1792,6 +1786,7 @@
       "savanna": "2024-06-28 02:37:52 +0000",
       "savanna_rock": "2024-06-28 02:46:28 +0000",
       "birch_forest_hills": "2024-06-28 02:22:34 +0000",
+      "ocean": "2024-07-03 04:13:45 +0000",
       "extreme_hills": "2024-06-30 14:47:59 +0000",
       "roofed_forest": "2024-06-27 04:25:42 +0000",
       "river": "2024-06-27 02:52:42 +0000",
