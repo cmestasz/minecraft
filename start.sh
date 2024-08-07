@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 sudo /usr/sbin/zerotier-one -d
-java -jar server.jar
+/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java -jar server.jar
